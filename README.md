@@ -1,4 +1,4 @@
-# phaser-first-game :video_game:
-My First Game in Phaser
+# My First Game in Phaser :video_game:
+
 
 https://phaser.io/
