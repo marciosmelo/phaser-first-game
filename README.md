@@ -8,3 +8,6 @@ My first game with Phaser Js following this tutorial -> https://phaser.io/tutori
 # Using
 - Phaser (https://phaser.io/)
 - Server (npm http-server)
+
+## Issues
+- Convert to Phaser 3
