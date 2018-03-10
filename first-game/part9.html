@@ -67,6 +67,8 @@
         player.setBounce(0.2);
         player.setCollideWorldBounds(true);
 
+        scoreText = this.add.text(16, 16, 'score: 0', { fontSize: '32px', fill: '#000' });
+
         this.anims.create({
             key: 'left',
             frames: this.anims.generateFrameNumbers('dude', { start: 0, end: 3 }),
