@@ -1,33 +1,17 @@
 {
-  "name": "boomdots",
+  "name": "phaser3",
   "version": "1.0.0",
-  "description": "Boomdots Game in Phaser3",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "dev": "webpack-dev-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/marciosmelo/phaser-first-game.git"
-  },
-  "keywords": [
-    "game",
-    "html5",
-    "js",
-    "javascript",
-    "phaser"
-  ],
-  "author": "@marciosmelo",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/marciosmelo/phaser-first-game/issues"
-  },
-  "homepage": "https://github.com/marciosmelo/phaser-first-game#readme",
   "dependencies": {
-    "phaser": "^3.2.0",
-    "webpack-cli": "^2.0.10"
+    "phaser": "^3.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

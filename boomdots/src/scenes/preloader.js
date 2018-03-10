@@ -1,4 +1,5 @@
-import phaser from 'phaser';
+import phaser from 'phaser'
+
 export class Preloader extends phaser.Scene {
     constructor() {
         super({
