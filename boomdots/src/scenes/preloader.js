@@ -6,7 +6,8 @@ export class Preloader extends phaser.Scene {
             key: 'preloader'
         });
     }
-    preload() {
-        console.log('Preloader preload')
+    preload () {
+        this.load.image('bg-static', 'assets/square.png')
+        this.load.image('bg-overlay', 'assets/bg.png')
     }
 }
