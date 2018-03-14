@@ -3,8 +3,8 @@ My firsts game in Phaser.io
 - Updated from Phaser CE to Phaser 3
 
 # Games
-1 - Phaser 'Getting Started Tutorial' (https://phaser.io/tutorials/making-your-first-phaser-game)
-2 - Boomdots (http://codetuto.com/2018/02/getting-started-phaser-3-es6-create-boomdots-game/)
+- Phaser 'Getting Started Tutorial' (https://phaser.io/tutorials/making-your-first-phaser-game)
+- Boomdots (http://codetuto.com/2018/02/getting-started-phaser-3-es6-create-boomdots-game/)
 
 ## Using
 - Phaser (https://phaser.io/)
