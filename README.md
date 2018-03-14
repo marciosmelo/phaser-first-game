@@ -1,10 +1,15 @@
-# My First Games in Phaser :video_game:
-My first game in Phaser.io
+# My Firsts Games in Phaser :video_game:
+My firsts game in Phaser.io
 - Updated from Phaser CE to Phaser 3
+
+# Games
+1 - Phaser 'Getting Started Tutorial' (https://phaser.io/tutorials/making-your-first-phaser-game)
+2 - Boomdots (https://trello.com/c/Pm09Hc4g/18-getting-started-in-phaser-3-es6-create-a-boomdots-game-codetuto)
 
 ## Using
 - Phaser (https://phaser.io/)
-- Following ( https://phaser.io/tutorials/making-your-first-phaser-game)
+- Webpack
+- ES6 
 
 ## Issues
 - Sounds (Effects and BG)
