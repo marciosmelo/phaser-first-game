@@ -4,7 +4,7 @@ My firsts game in Phaser.io
 
 # Games
 1 - Phaser 'Getting Started Tutorial' (https://phaser.io/tutorials/making-your-first-phaser-game)
-2 - Boomdots (https://trello.com/c/Pm09Hc4g/18-getting-started-in-phaser-3-es6-create-a-boomdots-game-codetuto)
+2 - Boomdots (http://codetuto.com/2018/02/getting-started-phaser-3-es6-create-boomdots-game/)
 
 ## Using
 - Phaser (https://phaser.io/)
