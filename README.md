@@ -1,4 +1,4 @@
-# My Firsts Games in Phaser :video_game:
+# My Games in Phaser :video_game:
 My firsts game in Phaser.io
 - Updated from Phaser CE to Phaser 3
 
